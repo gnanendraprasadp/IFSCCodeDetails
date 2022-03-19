@@ -1,5 +1,5 @@
 # IFSC Code Details
-Know your Bank Details using IFSC Code
+Know your Bank Details (India Only) using IFSC Code
 
 IDE Used : Android Studio<br>
 API Used : IFSC Toolkit by Razorpay<br>
